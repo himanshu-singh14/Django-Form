@@ -1,0 +1,4 @@
+Django==2.2.2
+Python==3.7.1
+PostgreSQL==12
+pgAdmin==4 v4.22 
